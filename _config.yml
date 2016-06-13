@@ -3,8 +3,7 @@ description:      唔。
 url:              
 signoff:          Qin LIN
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
-
+google_analytics: UA-79254401-1
 links:
   - name:         关于
     url:          /about
