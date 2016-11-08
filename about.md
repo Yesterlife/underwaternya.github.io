@@ -3,7 +3,7 @@ layout: page
 title: 关于
 ---
 
-林沁，[离线](https://the-offline.com/)实习生，[利器](http://liqi.io)运营者。
+林沁，[离线](https://the-offline.com/)实习生。国际商务与日语在读。
 
 有点不擅交流，但大概比一年前自信了很多。
 
