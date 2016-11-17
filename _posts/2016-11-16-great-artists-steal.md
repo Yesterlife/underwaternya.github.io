@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good artists copy, great artists steal
-date: 2016-11-17 03:27:31
+date: 2016-11-16 22:27:31
 ---
 
 在准备申请 Creative Media 的作品集时，看了几个「什么是 Portfolio」的视频。他们说——「最重要的是你的内容啦，不是你的排版什么的。我们想要看到的是你的创意，是你 think-out-of-box 的能力。」
