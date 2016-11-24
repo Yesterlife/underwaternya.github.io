@@ -9,7 +9,7 @@ title: 关于
 
 想学的东西很多，SQL / JavaScript / Swift / Python 都在<del>半吊子</del>自学中。用 FL Studio 写过一段时间的曲子，为一个没有做完的 galgame 写过 BGM。
 
-最近玩的游戏是 *Braid*。
+最近玩的游戏是 *深圳 I/O*，真难……
 
 也想好好写作，至少能做到言语表达清楚，思维流畅。
 
