@@ -7,31 +7,142 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Cover 子主题制作记录</title>
-        <description>&lt;p&gt;之前一直谋划着给现在用的 Cover 做一个 child theme，最近终于空下来开始做。这里记录一下制作过程和还是不甚明确的点。&lt;/p&gt;
+        <title>回顾 2016</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;读书&lt;/h2&gt;
+&lt;p&gt;《作家访谈》，很棒的访谈类书籍。有关采访这一块，比较喜欢的主要有两类。像&lt;a href=&quot;http://games.sina.com.cn/zt_d/y/2015fsk&quot;&gt;《富士康的年轻人》&lt;/a&gt;、&lt;a href=&quot;http://chuapp.com/article/243971.html&quot;&gt;《少女前线：因爱之名》&lt;/a&gt;这种群像类，讲故事类（说起来祝老的采访报道都写得特棒）。这种需要对于采访内容的深度整理。另外一种就是《作家访谈》这种对于某个人的深度访谈：虽然是问答形式，但是问题都挺有有趣。你可能因为喜欢这个特定的作家而开始阅读，但是内容质量也超过了你的期待。&lt;/p&gt;
 
-&lt;p&gt;使用了 Child Theme Configurator 这个插件，它能创造、设置子主题。就用它直接生成了 cover-child。（本来直接在 wp-content/themes 里添加了 cover-child 文件夹，但是 Wordpress 后台却没有显示。后来经提醒才发现是要手动在网页后台上传一个压缩包才行。）&lt;/p&gt;
+&lt;p&gt;安·兰德的《源泉》也给了我很大触动。理直气壮地宣布「个人主义」。&lt;/p&gt;
 
-&lt;p&gt;你也能在这个子主题制造插件里选择复制原主题的一些 PHP 文件，比如 footer.php 之类的，以免更新原主题时这些设置也被更新。需要注意的是它不能复制所有的 PHP 文件。&lt;/p&gt;
+&lt;p&gt;有关科技文化，读了《大教堂与集市》、《玻璃笼子》、《必然》几本。非虚构类的书读得还不够多。&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Copy PHP templates from the parent theme by selecting them here. The Configurator defines a template as a Theme PHP file having no PHP functions or classes. Other PHP files cannot be safely overridden by a child theme.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;另外虽然七七八八读了一些书，但是无法把读完之后心里的想法表达出来。就像没读过一样，还是要多总结。&lt;/p&gt;
 
-&lt;p&gt;似乎是其中带有 PHP functions 和 classes 的文件不能复制。这就比较麻烦了。我们自定义了 header.php，而它似乎是带有了函数。根据上面的描述，子主题的 header.php 不能安全覆盖原主题。这是没有解决的问题之一，现在也是在更新 Cover 之后，手动在 FTP 替换了 header.php。&lt;/p&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;工作&lt;/h2&gt;
+&lt;p&gt;在离线实习快两年了。&lt;/p&gt;
 
-&lt;p&gt;第二个手动替换的内容是 style.css。因为在早期修改样式的时候，我们都直接修改了原主题的 style.css；修改的内容实在太多，导致挑不出哪些是后来修改的，哪些是原来的。于是我暴力地把两个主题的 CSS 文件都替换成了原来的……&lt;/p&gt;
+&lt;p&gt;要说收获，比起实实在在的技术，在这一年半中离线带给我想法上的影响更大——原来世界上的确存在着这样的团队啊。就……像《New Game》里的一样，有一种梦想实现，并想为之奋斗的感觉。&lt;/p&gt;
 
-&lt;p&gt;第三个是 template-tags.php，我把原来的 Previous Post 改成了「下一篇」，Next Post 直接删了。这个也是一个未解之谜，不知为何没有覆盖成功。&lt;/p&gt;
+&lt;p&gt;做过的事其实很杂。第一次把学到的技术用到了实际业务中，第一次为杂志认真写长文，也第一次尝试和那么多陌生人沟通。不过接触广的弊端就是没有专长，都会那么一点点，却没有深入。在选研究生专业的时候，也仍然选择了一条跨学科的路径。&lt;/p&gt;
 
-&lt;p&gt;随之而来的问题还有在 Aesop 这个主题绑定的插件中，有些原来的样式不见/失效了。之后又加了几行样式。&lt;/p&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;学习&lt;/h2&gt;
+&lt;p&gt;这一栏应该是在去年最顺利的。在暑假的时候考过了日语 N1。雅思虽然考了两次，但也达到了目标。对口语和写作稍稍有了信心。&lt;/p&gt;
 
-&lt;p&gt;诶，记一次能力范围外的升级……不过 PHP 没有动力搞懂啊。&lt;/p&gt;
+&lt;p&gt;九月份也按照自己的日程投了几所学校，拿到了 UCL 和 KCL 两所学校 Digital Humanities 专业的 offer。不出意料的话，明年就会去 UCL。&lt;/p&gt;
+
+&lt;p&gt;对于未来的方向虽然也称不上明确。还是想去一家科技与文化有关的公司，担任其中的技术岗位。&lt;/p&gt;
+
+&lt;p&gt;接下来希望能够在技术方面更加系统地扎实地学习起来。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;生活&lt;/h2&gt;
+&lt;p&gt;去年年底从英国交换回来之后，心态可能还变了挺多。大三的记忆似乎只有在英国生活的大三上了——深刻感受到，很难和一群讲不到一块儿的人一起生活。也深刻感受到自己太不独立了，在生活方面。这甚至还让我对在英国读研产生了一点恐惧。&lt;/p&gt;
+
+&lt;p&gt;但所幸，在友人的鼓励之下，还是踏出了这一步。不仅是人格独立，生活上也要会照顾好自己啊我。&lt;/p&gt;
+
+&lt;p&gt;「只是希望生活上有个人陪伴，我似乎从来没有过特别特别喜欢过一个人。」我自己都不知道说出的这些话是真是假。&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 13 Jun 2016 11:11:00 +0800</pubDate>
-        <link>/2016/06/13/making-cover-child/</link>
-        <guid isPermaLink="true">/2016/06/13/making-cover-child/</guid>
+        <pubDate>Mon, 16 Jan 2017 10:27:31 +0800</pubDate>
+        <link>/2017/01/16/review-of-the-year-2016/</link>
+        <guid isPermaLink="true">/2017/01/16/review-of-the-year-2016/</guid>
+      </item>
+    
+      <item>
+        <title>忍耐力</title>
+        <description>&lt;p&gt;以「不感兴趣」作为做不好某事的借口，我可是不认可的。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Dec 2016 10:27:31 +0800</pubDate>
+        <link>/2016/12/16/nintairyoku/</link>
+        <guid isPermaLink="true">/2016/12/16/nintairyoku/</guid>
+      </item>
+    
+      <item>
+        <title>Good artists copy, great artists steal</title>
+        <description>&lt;p&gt;在准备申请 Creative Media 的作品集时，看了几个「什么是 Portfolio」的视频。他们说——「最重要的是你的内容啦，不是你的排版什么的。我们想要看到的是你的创意，是你 think-out-of-box 的能力。」&lt;/p&gt;
+
+&lt;p&gt;虽然它明确表明了不需要一个很专业的艺术方向的作品集，这点让我这个外行者放心了一些；但是对于「创意」的强调还是让我有些担心。我并不是一个擅长创造、提出灵感的人。对于模仿、再现别人的风格勉强可以称得上擅长，很少有独立于别人想法的全新创造。（说回来为什么想要申请这个专业，是对于创意工作者的敬佩和向往）。&lt;/p&gt;
+
+&lt;p&gt;不过题目这句话，似乎说的更是一个普适的规则：创造说白了，也是一种把不同领域看起来毫无相关的事物连在一起的能力。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如何拿 70+ 的论文？你要从不同角度看同一件事，从不同方向解读。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;纯粹用引文写作是泛媒体时代的必然发展。任何东西和任何东西都可能有联系，而发现这种联系几乎成了一种全职工作。与其用自己的话把别人的言论重新说一遍，并「假装」是自己的洞见，不如尝试把这些片段拼接起来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;可能这就是生成灵感的来源之一吧。要剽也要剽的彻底一点 XD&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 06:27:31 +0800</pubDate>
+        <link>/2016/11/17/great-artists-steal/</link>
+        <guid isPermaLink="true">/2016/11/17/great-artists-steal/</guid>
+      </item>
+    
+      <item>
+        <title>阅读和写作能力之间的空白</title>
+        <description>&lt;p&gt;能轻松理解文章的意思，却无法表达出来。那没能表达出来的那些都去哪了？&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Nov 2016 14:15:31 +0800</pubDate>
+        <link>/2016/11/08/the-gap-between-reading-and-writing/</link>
+        <guid isPermaLink="true">/2016/11/08/the-gap-between-reading-and-writing/</guid>
+      </item>
+    
+      <item>
+        <title>用 6 小时来开会</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;用 6 小时来开会&lt;/h2&gt;
+
+&lt;p&gt;仔细想想有很多兴奋的选题。科学和艺术的跨界（电子音乐也是其中的一部分吧）、《攻壳机动队》、电影配乐的理论……&lt;/p&gt;
+
+&lt;p&gt;开会时一点观察。很多选题灵感来源的确来自于社交网络/随意乱逛。比如在 V2EX 上看程序员转行卖水果。&lt;/p&gt;
+
+&lt;p&gt;不过这时候又想起之前看到的&lt;a href=&quot;https://www.youtube.com/watch?v=PhruAkiBO5E&quot;&gt;那个 TED 演讲&lt;/a&gt;「灵感是留给那些业余玩家的」。这么说的话，靠逛「社交网站」这种方法显然不够稳定，还浪费时间。&lt;/p&gt;
+
+&lt;p&gt;换句话说，我们需要寻找 pattern。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;xxx-&quot;&gt;你最尊敬的 XXX 是谁？&lt;/h2&gt;
+
+&lt;p&gt;就像&lt;a href=&quot;https://zh.moegirl.org/%E5%85%AB%E7%A5%9E%E5%85%89(NEW_GAME!)&quot;&gt;八神コウ&lt;/a&gt;是青葉憧憬的对象那样，在职业生涯、工作场合中有我也算有个「想成为」的目标。&lt;/p&gt;
+
+&lt;p&gt;利器最近新增了一个问题，「你最尊敬的插画师/设计师是谁？」。本来还会顾虑是否大家能答这个问题。插画师之类的还好理解，比如说会临摹他们的作品。音乐人回模仿他们的曲风。但如果是相对不需要「创造性」的程序员，他们也会有吗？&lt;/p&gt;
+
+&lt;p&gt;但实际在工作时，会发现还真的会有。这和职业无关。感染人的有时候不是他们的作品，而是对方的性格、精神。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;游戏如何讲故事？&lt;/h2&gt;
+
+&lt;p&gt;前几天看到了一篇 CEDEC 2013 上的&lt;a href=&quot;http://forum.gamer.com.tw/Co.php?bsn=60001&amp;amp;sn=421596&quot;&gt;演讲稿&lt;/a&gt;，是一位日本人阐释什么是叙事（Narrative），什么是故事（Story）。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;「故事」是指開始和結束、終點和經過的地方都是固定的，不管看幾次，是誰來看，都會發生一樣的事情。另一方面，「敘事」是指時間過程沒有設定，玩家透過自己的經驗和經歷來詮釋。而且存在意外和偶然。他補充了很重要的一點，這些意外和偶然是讓玩家能夠感受到意外即可，製作者是可以控制這些變數的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;另外还有一点比较重要的是，你能否和故事产生共鸣，你能否代入主角的心情。&lt;em&gt;PacMan&lt;/em&gt; 就不能，&lt;em&gt;Journey&lt;/em&gt; 这种氛围游戏就可以。&lt;/p&gt;
+
+&lt;p&gt;你能和棋盘中的棋子产生共鸣吗？你能理解他们吗？&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jul 2016 16:54:00 +0800</pubDate>
+        <link>/2016/07/30/meeting-for-six-hour/</link>
+        <guid isPermaLink="true">/2016/07/30/meeting-for-six-hour/</guid>
+      </item>
+    
+      <item>
+        <title>大三最后一天</title>
+        <description>&lt;p&gt;马上就要结束的暑假&lt;/p&gt;
+
+&lt;p&gt;这到底是种怎么样的心情——&lt;/p&gt;
+
+&lt;p&gt;一切都是离别的氛围。寝室空空的另外三张床板，走廊上散落着废纸，书柜上的书都收到了打开在地上的旅行箱中。似乎要有点眼泪才对，但又嘲笑自己这种想法。&lt;/p&gt;
+
+&lt;p&gt;可以说是暑期的最后一天，考完了最后一门考试，明日准备回家。紧接着收拾东西，后天去北京。住的地方还没有定。有些担心一年不见的离线（过去的一年真的变化好多，各种意义上）。就是站在转折点上面吧。四周都是不安。&lt;/p&gt;
+
+&lt;p&gt;不安也是要度过的嘛。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Jun 2016 11:11:00 +0800</pubDate>
+        <link>/2016/06/18/the-last-day-of-year-three/</link>
+        <guid isPermaLink="true">/2016/06/18/the-last-day-of-year-three/</guid>
       </item>
     
       <item>
