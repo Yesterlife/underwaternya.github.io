@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+disqus: y
 title: 回顾 2016 
 date: 2017-1-16 02:27:31
 ---
