@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 大三最后一天
 date: 2016-6-18 3:11:00
 ---

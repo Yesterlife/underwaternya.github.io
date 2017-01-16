@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Good artists copy, great artists steal
 date: 2016-11-16 22:27:31
 ---

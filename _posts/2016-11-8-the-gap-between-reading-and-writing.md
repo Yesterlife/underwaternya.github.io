@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 阅读和写作能力之间的空白
 date: 2016-11-8 06:15:31
 ---

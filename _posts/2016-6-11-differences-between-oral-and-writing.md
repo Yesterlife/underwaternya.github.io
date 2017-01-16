@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 文字与书面的区别
 date: 2016-6-11 9:48:00
 ---

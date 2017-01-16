@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 忍耐力
 date: 2016-12-16 02:27:31
 ---

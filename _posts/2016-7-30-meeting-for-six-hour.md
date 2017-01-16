@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 用 6 小时来开会
 date: 2016-7-30 08:54:00
 ---

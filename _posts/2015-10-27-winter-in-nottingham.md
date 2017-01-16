@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 诺丁汉的冬天
 date: 2015-10-27 15:27:31
 ---
