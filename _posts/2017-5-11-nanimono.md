@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 何者
+cover_url: http://underwaternya.github.io/images/nanimono.jpg
 date: 2017-5-10 15:34:31
 ---
-![](/images/nanimono.jpg)
 
 \#求职（就活）
 
