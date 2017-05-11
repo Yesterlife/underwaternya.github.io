@@ -2,7 +2,7 @@ title: 她已非昔日之她
 email: linq.sophie@gmail.com
 description: (＃ ﾟДﾟ)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "underwaternya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://underwaternya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: zh-Hans
 color_scheme: github
 twitter_username: underwaternya
