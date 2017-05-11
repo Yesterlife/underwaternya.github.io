@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 何者
-comments: false
 date: 2017-5-10 15:34:31
 ---
 ![](/images/nanimono.jpg)
