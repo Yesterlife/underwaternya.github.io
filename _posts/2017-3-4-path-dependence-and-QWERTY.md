@@ -1,6 +1,6 @@
 ---
 layout: post
-disqus: y
+comments: true
 title: 为什么 QWERTY 键盘的全面流行的原因叫作路径依赖
 date: 2017-3-4 02:27:31
 ---
