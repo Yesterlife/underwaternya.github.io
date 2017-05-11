@@ -1,6 +1,5 @@
 ---
 layout: post
-disqus: y
 title: 何者
 date: 2017-5-10 15:34:31
 ---
