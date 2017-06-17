@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Failure 笔记
-date: 2017-6-13 22:34:31
+date: 2017-6-17 12:34:31
 cover_url: 
 ---
 （趁还能借图书馆的最后一波书，不知道能不能把 playful thinking 系列补完。Amazon 链接：[*The Art of Failure*](https://www.amazon.com/Art-Failure-Playing-Playful-Thinking/dp/0262529955)）
