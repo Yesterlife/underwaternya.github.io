@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-林沁，<del>[离线](https://the-offline.com/)实习生</del>。国际商务与日语在读，UCL Digital Humanities 准备进修中。
+林沁，在[离线](https://the-offline.com/)呆了两年，在[轻芒](http://qingmang.me/)呆了两个多月。UCL Digital Humanities 进修中。
 
 有点不擅交流，但大概比一年前自信了很多。
 
