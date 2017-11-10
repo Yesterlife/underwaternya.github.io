@@ -17,6 +17,7 @@ cover_url:
 *图片还是有点让人不适的……*
 
 ![mugs everywhere](http://ww3.sinaimg.cn/large/63ac4c20jw1fb4fa83p2bj20ag07bgme.jpg)
+
 *等下，忽然发现这图的笑点是它没有选中唯一的真正的 mug……*
 
 
