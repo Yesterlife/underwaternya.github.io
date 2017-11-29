@@ -138,7 +138,7 @@ cover_url:
 
 > History is not merely one subject among many that may be taught; every subject has a history, including biology, physics, mathematics, literature, music, and art. I would propose here that every teacher must be a history teacher.
 
-当老师教生物的时候，如果只是讲述现在我们知道什么，而不说人类曾经是如何理解生物的，是把知识仅仅当做商品来看待（所谓的知识付费？）。学生不知道理解知识生产的过程，他们就没法理解知识本身的意义。教电学而不说法拉第，教政治科学而不教亚里士多德或者 [马基雅弗利](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A7%91%E6%B4%9B%C2%B7%E9%A9%AC%E5%9F%BA%E9%9B%85%E5%BC%97%E5%88%A9) ，教音乐而不提海顿，是拒绝让学生参与 Great Conversation。（这时候才意识到，了解 digital humanities 这个学科，了解它的历史是很重要的。）
+当老师教生物的时候，如果只是讲述现在我们知道什么，而不说人类曾经是如何理解生物的，是把知识仅仅当做商品来看待（所谓的知识付费？）。学生不知道理解知识生产的过程，他们就没法理解知识本身的意义。教电学而不说法拉第，教政治科学而不教亚里士多德或者 [马基雅弗利](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A7%91%E6%B4%9B%C2%B7%E9%A9%AC%E5%9F%BA%E9%9B%85%E5%BC%97%E5%88%A9) ，教音乐而不提海顿，是拒绝让学生参与 Great Conversation。[^7]
 
 了解你的「根」不只是知道你曾祖父是谁，还需要知道你的思想从何而来，你为什么会相信这些想法，你为什么会有现在的美学和道德评判标准。
 
@@ -155,3 +155,4 @@ cover_url:
 [^4]: 数据科学家这个职位的兴起也是这个原因？
 [^5]: 围绕这个话题相关的讨论还挺多。1. [乔布斯也曾表达过类似观点](http://www.miaopai.com/show/jCRfa6DLAfsRMCrUq7YyzfgokoGTw6dqWw2QXg__.htm)。2. 轻芒的方法论 [How Might We](https://zhuanlan.zhihu.com/p/25229849)，我们要找的问题的最根本层次：消费者们不想要绿色的肥皂，而是想要清新感。3. EA 最近的[动态难度调节（DDA）事件](https://www.g-cores.com/articles/94469)：氪金要让消费者认为他们氪得值。
 [^6]: 接下来的这一段简直可以直接拿来当 [Lapham's](https://www.laphamsquarterly.org/) 的广告语。事实是看完我真的买了。
+[^7]: 这时候才意识到，了解 digital humanities 这个学科，了解它的历史是很重要的。
