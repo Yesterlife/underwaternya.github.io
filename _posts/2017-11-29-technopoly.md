@@ -5,13 +5,23 @@ date: 2017-11-29
 cover_url: 
 ---
 
+补一下背景：
+
+一开始是在《一天世界》的 Twitter 里[看到推荐这本书](https://twitter.com/yitianshijieipn/status/919203559911985152)。
+> 关心俄罗斯人在 Facebook 买广告推广假新闻的问题？这本一九九二年的书必读。第三章，各位。第三章。「The Improbable World」。 
+> 说真的，不管妳关心什么或者不关心什么，都应该把 Neil Postman 的书全部读一遍。
+
+之前记得节目中也谈到过 Neil Postman 是一个很好的写作者，能把复杂的事情讲清楚，于是就跑去图书馆借了这本书。[^1]
+
+这应该是我第一本认认真真读完的英语书（教科书除外）。Postman 的叙述清晰有条理，阅读起来不滞涩。
+
 ## Chapter 1: The Judgment of Thamus
 
 对于古罗马人来说，写作这种「科技」是记忆的延伸，还是对人体技能的退化的威胁？《柏拉图》的斐德罗篇中讨论了这个问题。
 
 把写作换成计算机，这就是我们今天在讨论的问题：计算机这种科技对人类的影响到底是如何？
 
-但是那时候的人（斐德罗篇里的 Thamus）不会说如果把「写作」用在某一方面（比如文学、哲学和历史），就会对人类有益。这种论调在科技话题上很常见：如果我们把科技用在医疗、通信上而不是原子弹上，他就能对人类有益。 这点其实还是 Thamus 看得透彻：他知道，一样新技术发明出来，试图限制它只在某领域内应用，这种限制是徒劳的。一旦被应用，就覆水难收了，你无法限制人们会怎么用它。[^1]
+但是那时候的人（斐德罗篇里的 Thamus）不会说如果把「写作」用在某一方面（比如文学、哲学和历史），就会对人类有益。这种论调在科技话题上很常见：如果我们把科技用在医疗、通信上而不是原子弹上，他就能对人类有益。 这点其实还是 Thamus 看得透彻：他知道，一样新技术发明出来，试图限制它只在某领域内应用，这种限制是徒劳的。一旦被应用，就覆水难收了，你无法限制人们会怎么用它。[^2]
 
 ## Chapter 2-3
 
@@ -33,7 +43,7 @@ cover_url:
 
 科技让信息传播更快，但是「让信息有意义」这点变得更难实现。就像之前是新开封的扑克牌，你对于下一张是什么有预期，这预期可能来自宗教；但是信息大爆炸之后所有观点都可能有人支持，就像一幅被打乱的扑克牌，你对接下来发生的事，可能完全没有预期了。
 
-这就是所谓的后稀缺时代吧？缺的不是信息，是意义。[^2]
+这就是所谓的后稀缺时代吧？缺的不是信息，是意义。[^3]
 
 > It is a world in which the idea of human progress has been replaced by the ida of technological progress. The aim is not to reduce ignorance, superstition, and suffering but to accommodate ourselves to the requirements of new technologies.
 
@@ -41,7 +51,7 @@ cover_url:
 
 如何解决信息过载带来的危害？社会学家们常常忽略 social institutions 的作用，它们是一种控制机制。
 
-有时候，social institution 会通过直接限制信息流来达成目标[^3]，更多时候是会给信息们分配权重。下面是三个例子
+有时候，social institution 会通过直接限制信息流来达成目标[^4]，更多时候是会给信息们分配权重。下面是三个例子
 
 1. 法院就是一种传统的 social institution，它会限制「传闻」，限制个人意见、情感，只让必要的证词出现。
 2. Social institution 的另外一个例子是学校，学校中的课程目录。通过定义什么该放到大纲，什么不该放，它定义了课程的边界和目标。
@@ -69,7 +79,7 @@ cover_url:
 
 人们在内心深处总是用人类智能来理解电脑。这种用语和心态上的改变，似乎把电脑看成和人类平等的物体，它有意志，有想法，有理由——它似乎可以帮助人类做决定。
 
-我们不再相信人类的情感、超自然和道德方面的能力，我们用对机器的信仰取代了这些。[^4]
+我们不再相信人类的情感、超自然和道德方面的能力，我们用对机器的信仰取代了这些。[^5]
 
 ## Chapter 8: Invisible Technology
 
@@ -122,7 +132,7 @@ cover_url:
 
 > What the advertiser needs to know is not what is right about the product, but what is wrong about the buyer.
 
-在这个规则下，公司的研发投入渐渐从 product research 转向了 market research，公司的重心从研发「有价值的产品」到了研发「让消费者觉得值的产品」。[^5]
+在这个规则下，公司的研发投入渐渐从 product research 转向了 market research，公司的重心从研发「有价值的产品」到了研发「让消费者觉得值的产品」。[^6]
 
 教育的目的是什么？这听起来会是一个哲学问题。类比成打篮球，你可以说打篮球是为了投好三分球。但是这不是最终目的，最终目的可能是获得同伴认可/让你爸开心/感受运动本身带来的快乐。你首先要找到一个要实现的目标，「成功」才有意义。
 
@@ -134,11 +144,11 @@ cover_url:
 - 了解曾经那些伟大的思想和创作的诞生过程
 - 参与到 Great Conversation 中去，就算只是一个聆听者也好。
 
-这个解答不是 training-centered, 不是 skill-centered，不是 problem-centered。这是 idea-centered，coherence-centered。教育不是为了马上直接投入社会工作、创造经济价值。它强调的是历史，是学会科学思考的模式，了解艺术和宗教，以及人类存续问题。这样的教育才能让人们在反历史、信息过剩的技术垄断时代延续下去。[^6]
+这个解答不是 training-centered, 不是 skill-centered，不是 problem-centered。这是 idea-centered，coherence-centered。教育不是为了马上直接投入社会工作、创造经济价值。它强调的是历史，是学会科学思考的模式，了解艺术和宗教，以及人类存续问题。这样的教育才能让人们在反历史、信息过剩的技术垄断时代延续下去。[^7]
 
 > History is not merely one subject among many that may be taught; every subject has a history, including biology, physics, mathematics, literature, music, and art. I would propose here that every teacher must be a history teacher.
 
-当老师教生物的时候，如果只是讲述现在我们知道什么，而不说人类曾经是如何理解生物的，是把知识仅仅当做商品来看待（所谓的知识付费？）。学生不知道理解知识生产的过程，他们就没法理解知识本身的意义。教电学而不说法拉第，教政治科学而不教亚里士多德或者 [马基雅弗利](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A7%91%E6%B4%9B%C2%B7%E9%A9%AC%E5%9F%BA%E9%9B%85%E5%BC%97%E5%88%A9) ，教音乐而不提海顿，是拒绝让学生参与 Great Conversation。[^7]
+当老师教生物的时候，如果只是讲述现在我们知道什么，而不说人类曾经是如何理解生物的，是把知识仅仅当做商品来看待（所谓的知识付费？）。学生不知道理解知识生产的过程，他们就没法理解知识本身的意义。教电学而不说法拉第，教政治科学而不教亚里士多德或者 [马基雅弗利](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A7%91%E6%B4%9B%C2%B7%E9%A9%AC%E5%9F%BA%E9%9B%85%E5%BC%97%E5%88%A9) ，教音乐而不提海顿，是拒绝让学生参与 Great Conversation。[^8]
 
 了解你的「根」不只是知道你曾祖父是谁，还需要知道你的思想从何而来，你为什么会相信这些想法，你为什么会有现在的美学和道德评判标准。
 
@@ -149,10 +159,12 @@ cover_url:
 ---
 另：这篇一开始是在 Notion 里写完的，它有一键 publish to web 选项，可以[看原链接](https://www.notion.so/Technopoly-the-surrender-of-culture-to-technology-832c092056574bfd8a4fcadcfd7d7b25)。爱上 [Notion](https://www.notion.so/) 了。
 
-[^1]: 但是也有人说：「你看 Thamus 当时的担心是没道理的吧」，因为现在每个人都在写作呀。记得是在一篇讲电子书的文章中提到的，那篇文章作者的论调是，我们就像 Thamus 当时没有想清楚「写作」带来的优点，也没有想清楚「电子书」带来的优点。
-[^2]: 而作为内容分发平台，构建意义恰好是能做的，也是该做的。
-[^3]: GFW 也算。不过这个更有目的性——维和。
-[^4]: 数据科学家这个职位的兴起也是这个原因？
-[^5]: 围绕这个话题相关的讨论还挺多。1. [乔布斯也曾表达过类似观点](http://www.miaopai.com/show/jCRfa6DLAfsRMCrUq7YyzfgokoGTw6dqWw2QXg__.htm)。2. 轻芒的方法论 [How Might We](https://zhuanlan.zhihu.com/p/25229849)，我们要找的问题的最根本层次：消费者们不想要绿色的肥皂，而是想要清新感。3. EA 最近的[动态难度调节（DDA）事件](https://www.g-cores.com/articles/94469)：氪金要让消费者认为他们氪得值。
-[^6]: 接下来的这一段简直可以直接拿来当 [Lapham's](https://www.laphamsquarterly.org/) 的广告语。事实是看完我真的买了。
-[^7]: 这时候才意识到，了解 digital humanities 这个学科，了解它的历史是很重要的。
+[^1]: UCL main library 里竟然没有，是在 Bartlett 建筑学院的图书馆找到的。
+[^2]: 但是也有人说：「你看 Thamus 当时的担心是没道理的吧」，因为现在每个人都在写作呀。记得是在一篇讲电子书的文章中提到的，那篇文章作者的论调是，我们就像 Thamus 当时没有想清楚「写作」带来的优点，也没有想清楚「电子书」带来的优点。
+[^3]: 而作为内容分发平台，构建意义恰好是能做的，也是该做的。
+[^4]: GFW 也算。不过这个更有目的性——维和。
+[^5]: 数据科学家这个职位的兴起也是这个原因？
+[^6]: 围绕这个话题相关的讨论还挺多。1. [乔布斯也曾表达过类似观点](http://www.miaopai.com/show/jCRfa6DLAfsRMCrUq7YyzfgokoGTw6dqWw2QXg__.htm)。2. 轻芒的方法论 [How Might We](https://zhuanlan.zhihu.com/p/25229849)，我们要找的问题的最根本层次：消费者们不想要绿色的肥皂，而是想要清新感。3. EA 最近的[动态难度调节（DDA）事件](https://www.g-cores.com/articles/94469)：氪金要让消费者认为他们氪得值。
+[^7]: 接下来的这一段简直可以直接拿来当 [Lapham's](https://www.laphamsquarterly.org/) 的广告语。事实是看完我真的买了。
+[^8]: 这时候才意识到，了解 digital humanities 这个学科，了解它的历史是很重要的。
+
