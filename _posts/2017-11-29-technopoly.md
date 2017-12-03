@@ -45,7 +45,7 @@ cover_url:
 
 这就是所谓的后稀缺时代吧？缺的不是信息，是意义。[^3]
 
-> It is a world in which the idea of human progress has been replaced by the ida of technological progress. The aim is not to reduce ignorance, superstition, and suffering but to accommodate ourselves to the requirements of new technologies.
+> It is a world in which the idea of human progress has been replaced by the idea of technological progress. The aim is not to reduce ignorance, superstition, and suffering but to accommodate ourselves to the requirements of new technologies.
 
 ## Chapter 5: The Broken defences
 
@@ -85,18 +85,18 @@ cover_url:
 
 语言会间接影响人们对世界的感知，数据也是。人类对 **智商的数值化** ，会带来三个问题：
 
-1. 实化（reification）：我们用「智能」（intelligence）来指代人类的各种各样的能力。它很抽象，不像「脾脏」「胰腺」能被科学准确定义和测量。
+1. 实化（reification）：或者说把抽象的东西数字化。我们用「智能」（intelligence）来指代人类的各种各样的能力。它很抽象，不像「脾脏」「胰腺」能被科学准确定义和测量。
 2. 排序（ranking）：排序的标准是什么？我们这里不仅假设了智能是个东西，而且，它是「一个」东西。这简直就是按照胸部大小作为美的标准给女人们排序。
 3. 用实化和排序处理问题，我们就会产生偏差。我们就会说弗兰西斯·高尔顿（据说智商上 200。等一下，这个人是心理测量学的创始人）的智商是哥白尼（大概只有 100-110）的两倍。
 
 和测试、量化很像， **投票** 也是一种隐性的控制。政客们常说，这些数据代表了人们的「想法」。它有四个问题。
 
-1. 想法很多程度上取决于问题的问法。很多「是」「否」问题简化了背后的理由。而理由更加重要。
+1. 想法很大程度上取决于问题的问法。很多「是」「否」问题简化了背后的理由。而理由更加重要。
 2. 人们很少有确切的观点，大多数都是在形成观点的过程中。而二分问题也忽略了这点。
 3. 人们很少对某件事有全面的信息。大家并不是在都知道某个前提的情况下做出选择的。
 4. 政客们把责任推卸至人民中。
 
-因此在数据的世界中，其实有大量无用的信息。而区分是否有用是个很困难的。
+因此在数据的世界中，其实有大量无用的信息。而区分是否有用是个很困难的任务。
 
 除了上面说的 IQ 测试和投票系统，「科学管理」也是一种隐性的科技。管理学中的流程、规则规范了人们的行为。这本身没什么错，但是如果过于依赖这些 procedures，就会像我们过于依赖科技一样，我们就会被「管理学」支配。
 
@@ -114,7 +114,7 @@ cover_url:
 
 这里的科学，我们口中常说的科学已经不止局限于理化生领域，甚至还指心理学、社会学和人类学。这种过于宽泛的所指模糊了「process」和「practice」的边界。Process 指冰川消融、叶片变黄等自然现象，它和人类智能没有关系，它们遵循的是自然界不可违反的定律。相反，practice 和人息息相关。读一本书、恋爱、建立政府，这些都是人和环境的交互。
 
-所以说，我们想说的科学，是想找出「process」中的因果关系。人类行为、人的感觉，这些practice 怎么能叫科学嘛。当然，你可以说，社会学家也在用到数据来量化结果啊，这方法和研究自然科学的人一样。但你想想，画家和刷墙工都在用一样的工具，做一样的事情，他们是一样的吗？
+所以说，我们想说的科学，是想找出「process」中的因果关系。人类行为、人的感觉，这些 practice 怎么能叫科学嘛。当然，你可以说，社会学家也在用到数据来量化结果啊，这方法和研究自然科学的人一样。但你想想，画家和刷墙工都在用一样的工具，做一样的事情，他们是一样的吗？
 
 虽然社会科学也会像科学家那样做实验，但是， **他们做的实验不能被证明是错的。** 只有能被证明是错的观点，才能叫做理论。比如说宗教，我们可以有很多证据和例子能证明上帝存在，但是我们无法证明上帝不存在。这不能被称为科学理论。
 
@@ -134,7 +134,7 @@ cover_url:
 
 在这个规则下，公司的研发投入渐渐从 product research 转向了 market research，公司的重心从研发「有价值的产品」到了研发「让消费者觉得值的产品」。[^6]
 
-教育的目的是什么？这听起来会是一个哲学问题。类比成打篮球，你可以说打篮球是为了投好三分球。但是这不是最终目的，最终目的可能是获得同伴认可/让你爸开心/感受运动本身带来的快乐。你首先要找到一个要实现的目标，「成功」才有意义。
+教育的目的是什么？这听起来会是一个哲学问题。类比成打篮球，你可以说打篮球是为了投好三分球。但是这不是最终目的，最终目的可能是获得同伴认可、让你爸开心，或者感受运动本身带来的快乐。你首先要找到一个要实现的目标，「成功」才有意义。
 
 ## Chapter 11: The Loving Resistance Fighter
 
@@ -144,7 +144,7 @@ cover_url:
 - 了解曾经那些伟大的思想和创作的诞生过程
 - 参与到 Great Conversation 中去，就算只是一个聆听者也好。
 
-这个解答不是 training-centered, 不是 skill-centered，不是 problem-centered。这是 idea-centered，coherence-centered。教育不是为了马上直接投入社会工作、创造经济价值。它强调的是历史，是学会科学思考的模式，了解艺术和宗教，以及人类存续问题。这样的教育才能让人们在反历史、信息过剩的技术垄断时代延续下去。[^7]
+这个解答不是 training-centered, 不是 skill-centered，不是 problem-centered。这是 idea-centered，coherence-centered。教育不是为了马上直接投入社会工作、创造经济价值。它强调的是历史，是学会科学思考的模式，了解艺术和宗教，以及人类存续问题。这样的教育才能让人类在反历史、信息过剩的技术垄断时代延续下去。[^7]
 
 > History is not merely one subject among many that may be taught; every subject has a history, including biology, physics, mathematics, literature, music, and art. I would propose here that every teacher must be a history teacher.
 
