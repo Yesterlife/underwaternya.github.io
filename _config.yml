@@ -14,7 +14,7 @@ google_analytics: UA-79254401-1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-kagami
+remote_theme: jekyll-theme-kagami
 exclude:
   - Gemfile
   - Gemfile.lock
