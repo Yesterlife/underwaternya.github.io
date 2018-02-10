@@ -39,7 +39,7 @@ HCI 的两门课是惊喜。这个学院的课都有 e-lecture，老师都会提
 ## XML & Server Programming
 这两门是 Digital Humanities 的必修课。没多少好讲的，说极端点是类似于职业培训。加上上学期的 JS，来这个 programme 你可以学到 JS, HTML, XML, CSS, PHP, SQL，说不准还加上 Prolog...如果你之前有一丢丢编程基础，JS 课你甚至能拿满分（前提是你要用 Allman Style 缩进法来写 JS）。
 
-想个有趣的项目比技术更有趣。
+想个有趣的项目比学习技术更困难。
 
 
 [^1]: https://dynamicland.org/research-notes/social-dynamics-of-programming-together/
