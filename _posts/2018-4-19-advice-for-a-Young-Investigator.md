@@ -8,9 +8,8 @@ cover_url:
 - 宇宙中解决问题的终极办法（来自笛卡尔）：
   - Do not acknowledge as true anything that is not obvious, divide a problem into as many parts as necessary to attack it in the best way, and start an analysis by examining the simplest and most easily understood parts before ascending gradually to an understanding of the most complex.
 
-# 2 Beginner’s Traps
+## 2 Beginner’s Traps
 
----
 
 how the prejudices and lax judgment that weaken the novice can be avoided. These problems destroy the self-conadence needed for any investigation to reach a happy conclusion
 
@@ -18,9 +17,8 @@ how the prejudices and lax judgment that weaken the novice can be avoided. These
 - 没有小问题。只有被 well understood 和没有被 well understood 的问题。
 - 有关智商崇拜：与其评价别人是天资平庸还是聪颖，不如看他做的工作是**快**还是**好**。前者是天才容易达到的，但是后者平庸的人似乎更容易达到吼。
 
-# 3 Intellectual Qualities
+## 3 Intellectual Qualities
 
----
 
 In the third chapter I will consider the moral values that should be displayed—which are like stimulants of the will.
 
@@ -32,9 +30,8 @@ In the third chapter I will consider the moral values that should be displayed�
 - passion for reputation: 科学家的名誉不会像作家/音乐家之类的那么快，因为受众少，人又是情感动物。
 - Taste for Scientific Originality
 
-# 4 What Newcomers to Biological Research Should Know
+## 4 What Newcomers to Biological Research Should Know
 
----
 
 In the fourth chapter I will suggest what needs to be known in preparing for a competent struggle with nature.
 
@@ -52,9 +49,8 @@ In the fourth chapter I will suggest what needs to be known in preparing for a c
 - 如何选择研究课题：选最了解、最热爱的
   - Finally, when we discover ourselves surrounded by a number of equally promising and fertile problems to work on, choose the one whose methodology we understand clearly, and the one we have a decided liking for
 
-  # 5 Diseases of the Will
+## 5 Diseases of the Will
 
-  ---
 
   I will point out certain impairments of the will and of judgment that must be avoided.
 
