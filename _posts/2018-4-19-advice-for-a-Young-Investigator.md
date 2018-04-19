@@ -55,7 +55,7 @@ In the fourth chapter I will suggest what needs to be known in preparing for a c
   I will point out certain impairments of the will and of judgment that must be avoided.
 
   - Contemplator（沉思的人）：人们很容易沉迷于入门级的快感，而这对发现新知识无意义。植物学家一开始可能是因为被好看的植物吸引，但是仅仅停留于研究硅藻是不行的。
-  - Bibliophiles and Polyglots（藏书者和通宵多语言的人）：其中包括
+  - Bibliophiles and Polyglots（藏书者和通晓多语言的人）：其中包括
 
     > assiduous reading of everything that is important to know, especially when it interests very few;
     unconquerable laziness where writing is concerned;
