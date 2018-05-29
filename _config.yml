@@ -2,7 +2,7 @@ title: 她已非昔日之她
 email: linq.sophie@gmail.com
 description: (＃ ﾟДﾟ)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://underwaternya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://underwaternya.github.io # the base hostname & protocol for your site, e.g. http://example.com
 lang: zh-Hans
 color_scheme: github
 twitter_username: underwaternya
@@ -12,8 +12,6 @@ google_analytics: UA-79254401-1
 
 # RSS feed
 name: 她已非昔日之她
-description: (＃ ﾟДﾟ)
-url: http://underwaternya.github.io
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
