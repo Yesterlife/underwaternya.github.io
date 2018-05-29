@@ -16,6 +16,6 @@ plugins:
 # Build settings
 markdown: kramdown
 remote_theme: jekyll-theme-kagami
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
