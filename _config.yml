@@ -9,13 +9,13 @@ twitter_username: underwaternya
 github_username:  underwaternya
 disqus_shortname: underwaternya
 google_analytics: UA-79254401-1
-plugins:
+gems:
   - jekyll-feed
 
 
 # Build settings
 markdown: kramdown
 remote_theme: jekyll-theme-kagami
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
