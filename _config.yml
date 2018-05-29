@@ -9,9 +9,11 @@ twitter_username: underwaternya
 github_username:  underwaternya
 disqus_shortname: underwaternya
 google_analytics: UA-79254401-1
-gems:
-  - jekyll-feed
-
+# gems:
+#   - jekyll-feed
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 
 # Build settings
 markdown: kramdown
