@@ -9,8 +9,11 @@ twitter_username: underwaternya
 github_username:  underwaternya
 disqus_shortname: underwaternya
 google_analytics: UA-79254401-1
-# gems:
-#   - jekyll-feed
+
+# RSS feed
+name: 她已非昔日之她
+description: (＃ ﾟДﾟ)
+url: http://underwaternya.github.io
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
