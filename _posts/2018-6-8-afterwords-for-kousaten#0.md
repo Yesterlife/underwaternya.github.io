@@ -36,4 +36,4 @@ cover_url: http://jiaocha.io/assets/logo/logoWithName.jpg
 希望能和《交差点》一起成长，这句话虽然老套，但想要表达的就是这个意思。
 
 
-[1]: 南极地图[宇宙より遠い場所](https://underwaternya.github.io/antarctica-stations-map/)
+[^1]: 南极地图[宇宙より遠い場所](https://underwaternya.github.io/antarctica-stations-map/)
