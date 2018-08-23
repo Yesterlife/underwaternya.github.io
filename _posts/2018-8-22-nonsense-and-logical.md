@@ -38,7 +38,7 @@ cover_url:
 
 简单概括，他提出的是当时科学家和人文学者对立相轻的状态：科学家看不起人文学者不知道热力学第二定律，人文学者嘲笑科学家不读莎士比亚。[^3]
 
-在 2014 RailsConf 中，Ruby on Rails 的最初作者 David Heinemeier Hansson [也聊到了一些](https://youtu.be/9LfmrkyP81M) 搞 hard science，比如说底层操作系统编程的人，可能对研究文学的人的鄙夷。研究十八世纪、一篇可能有 1000 种解释的法国诗歌？这根本没有终点，这很没用。你不能找到任何明确的、通用的「整理」。数学！能有终点。物理！能有确定答案。
+在 2014 RailsConf 中，Ruby on Rails 的最初作者 David Heinemeier Hansson [也聊到了一些](https://youtu.be/9LfmrkyP81M) 搞 hard science，比如说底层操作系统编程的人，可能对研究文学的人的鄙夷。研究十八世纪、一篇可能有 1000 种解释的法国诗歌？这根本没有终点，这很没用。你不能找到任何明确的、通用的「真理」。数学！能有终点。物理！能有确定答案。
 
 科学家还会嘲笑 social science（在 [Technopoly 的第九章](https://underwaternya.github.io/2017/11/29/technopoly.html) Postman 也提到过）。这可不是真正的 science，你只是使用了科学的方法论，但他们做的实验**不能被证明是错的**。就像图像不能被证明是错的，图像只能说传达到了/没传达到。如果因为如果人文学者在传达感觉而不是逻辑，他们的话就是无法辩驳的。
 
