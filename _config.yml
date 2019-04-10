@@ -18,7 +18,12 @@ feed_update_frequency: 1
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-kagami
+theme: jekyll-theme-kagami
 exclude:
   - Gemfile
   - Gemfile.lock
+
+plugins:
+  - jekyll-feed
+author:
+  twitter: underwaternya
