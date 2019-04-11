@@ -25,5 +25,3 @@ exclude:
 
 plugins:
   - jekyll-feed
-author:
-  twitter: underwaternya
